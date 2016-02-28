@@ -20,7 +20,7 @@
         <resource type="download" name="issue-quick-start.js" location="/js/issue-quick-start.js"/>
         <resource type="download" name="images/" location="/images"/>
 
-        <context>atl.general</context>
+        <context>jira.create.issue</context>
 
     </web-resource>
     
