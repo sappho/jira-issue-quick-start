@@ -1,4 +1,5 @@
 <atlassian-plugin key="${atlassian.plugin.key}" name="${project.name}" plugins-version="2">
+
     <plugin-info>
         <description>${project.description}</description>
         <version>${project.version}</version>
@@ -12,13 +13,15 @@
     
     <!-- add our web resources -->
     <web-resource key="issue-quick-start-resources" name="issue-quick-start Web Resources">
+
         <dependency>com.atlassian.auiplugin:ajs</dependency>
         
         <resource type="download" name="issue-quick-start.css" location="/css/issue-quick-start.css"/>
         <resource type="download" name="issue-quick-start.js" location="/js/issue-quick-start.js"/>
         <resource type="download" name="images/" location="/images"/>
 
-        <context>issue-quick-start</context>
+        <context>atl.general</context>
+
     </web-resource>
     
 </atlassian-plugin>
