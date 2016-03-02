@@ -6,8 +6,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.uk.sappho.plugins.jira</groupId>
-    <artifactId>issue-quick-start</artifactId>
+    <groupId>uk.org.sappho.jira.plugin</groupId>
+    <artifactId>jira-plugin-goto-new-issue</artifactId>
     <version>1.1.0</version>
 
     <organization>
