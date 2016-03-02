@@ -7,14 +7,14 @@ Download the plugin from the Atlassian Marketplace: https://marketplace.atlassia
 # Change Log
 
 * 1.1.0 - 2 March 2016
-    * Published rewrite marked for use with JIRA 6 onwards.
+    * Published rewrite marked for use with JIRA 6.4 onwards.
 
 # Contributors
 
 This rewritten version of the original plugin was written by:
 
 * Andrew Heald - andrew at heald dot uk.
-* Alex Williams.
+* Alex Williams - alex dot williams at mail dot com.
 
 # License
 
