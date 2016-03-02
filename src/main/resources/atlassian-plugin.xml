@@ -16,7 +16,6 @@
 
         <dependency>com.atlassian.auiplugin:ajs</dependency>
         
-        <resource type="download" name="issue-quick-start.css" location="/css/issue-quick-start.css"/>
         <resource type="download" name="issue-quick-start.js" location="/js/issue-quick-start.js"/>
         <resource type="download" name="images/" location="/images"/>
 
